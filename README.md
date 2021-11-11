@@ -7,17 +7,11 @@
 - 💡 I'm always looking to learn new things!
 - ⚽ 2022 Goals: I want to contribute on more open source projects!
 
-<br />
-<br />
-
 ### My Socials
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-<br />
 
 <img align="left" alt="Monty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MontyDriver&show_icons=true&hide_border=true" />
 
