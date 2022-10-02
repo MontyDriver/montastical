@@ -1,29 +1,17 @@
-### Hello, I'm Monty 👋
+# Monty Driver
 
-## I'm an 18 year old student from England!
+**`Computer Science Student and PRO crastinator`**
 
-- 🐍 My favourite language is Python!
-- 🌱 I'm currently learning front end web development (React, HTML, CSS)
-- 💡 I'm always looking to learn new things!
-- ⚽ 2022 Goals: I want to contribute on more open source projects!
+I'm a computer science student who is building up my GitHub portfolio one step at a 
+time. My aspirations are to be a software engineer and try my best to program every
+day in order to grow my skills. If you would like to collaborate on a project please
+reach out to me through one of my social medias down below.
 
-<br />
+---
 
 ## Github Stats
 
 <img align="left" alt="Monty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MontyDriver&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [linkedin]: https://www.linkedin.com/in/montgomery-driver/
