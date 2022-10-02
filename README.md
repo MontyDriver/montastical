@@ -34,6 +34,3 @@ reach out to me through one of my social medias down below.
 ### 📊 Stats
 
 <img align="left" alt="Monty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MontyDriver&show_icons=true&hide_border=true&theme=tokyonight"/>
-
-
-[linkedin]: https://www.linkedin.com/in/montgomery-driver/
