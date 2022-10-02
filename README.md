@@ -1,6 +1,6 @@
 # 💻 Monty Driver
 
-**`Computer Science student studying at Queen's University Belfast`**
+**`Computer Science Student and Aspiring Programmer`**
 
 I'm a computer science student who is building up my GitHub portfolio one step at a 
 time. My aspirations are to be a software engineer and try my best to program every
