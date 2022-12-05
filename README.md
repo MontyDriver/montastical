@@ -1,6 +1,6 @@
 # 💻 Monty Driver
 
-**`Computer Science Student and Aspiring Programmer`**
+**`Computer Science Student and Aspiring Software Developer`**
 
 I'm a computer science student who is building up my GitHub portfolio one step at a 
 time. My aspirations are to be a software engineer and try my best to program every
